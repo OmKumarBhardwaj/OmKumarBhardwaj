@@ -29,7 +29,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![LGTM Stack](https://img.shields.io/badge/LGTM_Stack_(Loki_·_Grafana_·_Tempo_·_Mimir)-F46800?style=flat&logo=grafana&logoColor=white)
 
-### 🤖 AI engineering — current focus
+### 🤖 AI engineering
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
