@@ -1,4 +1,4 @@
-# Hi, I'm Om Kumar Bhardwaj 👋
+# Hi, I'm Om 👋
 
 **AI Engineer · Backend (Java & Spring Boot) — building production-grade AI agents**
 
