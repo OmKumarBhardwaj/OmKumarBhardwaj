@@ -5,7 +5,7 @@
 - 💼 Backend engineer working with **Java, Spring Boot microservices, Spring Security + Keycloak, Terraform** and the **LGTM observability stack**
 - 🤖 Shipped **LLM-powered features** in production — personalized itinerary engine, AI-driven data pipelines
 - 🌱 Building **AI agents end to end**: Python · LangChain / LangGraph · RAG · agent evals (Langfuse / LangSmith) · **MCP** — new projects landing here regularly
-- 📫 Reach me: **omb6464@gmail.com**
+- 📫 Reach me: **omb6464@gmail.com** 
 
 -----
 
