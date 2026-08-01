@@ -7,7 +7,7 @@
 - 🌱 Building **AI agents end to end**: Python · LangChain / LangGraph · RAG · agent evals (Langfuse / LangSmith) · **MCP** — new projects landing here regularly
 - 📫 Reach me: **omb6464@gmail.com**
 
----
+-----
 
 ### 🛠 Core stack
 
