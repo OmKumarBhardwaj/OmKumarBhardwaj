@@ -42,8 +42,20 @@
 
 ### ☁️ Cloud & observability — in practice
 
-- **AWS**: ECS · MSK (Managed Kafka) · S3 · DynamoDB · Aurora · Route 53 · Secrets Manager · CloudWatch
-- **Observability**: Grafana Alloy → Prometheus → self-hosted **LGTM stack** (Loki · Grafana · Tempo · Mimir), with hand-written PromQL dashboards
+**AWS**
+
+![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat&logo=amazonecs&logoColor=white)
+![Amazon MSK](https://img.shields.io/badge/Amazon_MSK_·_Managed_Kafka-232F3E?style=flat&logo=apachekafka&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon_Aurora-527FFF?style=flat&logo=amazonrds&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+
+**Observability pipeline** — *self-hosted LGTM, hand-written PromQL dashboards*
+
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat&logo=grafana&logoColor=white) → ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) → ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-FF7300?style=flat&logo=grafana&logoColor=white) ![Mimir](https://img.shields.io/badge/Mimir-FC4C02?style=flat&logo=grafana&logoColor=white)
 
 ### 📌 Featured work
 
