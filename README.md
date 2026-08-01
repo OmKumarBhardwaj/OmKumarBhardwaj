@@ -20,13 +20,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka_·_AWS_MSK-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RQueue](https://img.shields.io/badge/RQueue-DC382D?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![LGTM Stack](https://img.shields.io/badge/LGTM_Stack_(Loki_·_Grafana_·_Tempo_·_Mimir)-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### 🤖 AI engineering
@@ -38,6 +39,11 @@
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat)
 ![MCP](https://img.shields.io/badge/MCP_·_Model_Context_Protocol-7C3AED?style=flat)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### ☁️ Cloud & observability — in practice
+
+- **AWS**: ECS · MSK (Managed Kafka) · S3 · DynamoDB · Aurora · Route 53 · Secrets Manager · CloudWatch
+- **Observability**: Grafana Alloy → Prometheus → self-hosted **LGTM stack** (Loki · Grafana · Tempo · Mimir), with hand-written PromQL dashboards
 
 ### 📌 Featured work
 
