@@ -48,7 +48,3 @@
 | [XURL](https://github.com/OmKumarBhardwaj/XURL-Short-URL-Generator-and-Retriever) | URL-shortener service | Java · Spring Boot |
 | [PortfolioPro](https://github.com/OmKumarBhardwaj/PortfolioPro) | Stock-portfolio analyzer with pluggable quote providers | Java |
 | [Object-Modeling](https://github.com/OmKumarBhardwaj/Object-Modeling) | Contest engine — Geektrust backend challenge, scored 89/100 | Core Java |
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmKumarBhardwaj&show_icons=true&theme=default&hide_rank=true" alt="GitHub stats" height="150"/>
-</p>
