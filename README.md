@@ -63,6 +63,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| [week1-raw-agent](https://github.com/OmKumarBhardwaj/week1-raw-agent) | Raw LLM agent built from scratch — no frameworks, just the API (Week 1 of a 6-week AI-agent series · in progress) | Python · uv · Groq & Gemini |
 | [CuisineConnect](https://github.com/OmKumarBhardwaj/CuisineConnect) | Food-ordering backend — Redis-cached, load-tested REST APIs | Java · Spring Boot · MongoDB · Redis |
 | [JukeBox](https://github.com/OmKumarBhardwaj/JukeBox) | Music-player backend with documented low-level design | Java · MVC |
 | [XURL](https://github.com/OmKumarBhardwaj/XURL-Short-URL-Generator-and-Retriever) | URL-shortener service | Java · Spring Boot |
